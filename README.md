@@ -21,12 +21,30 @@ note: seed the database for user data and packages to make the api ready for imm
 
 
 ## Evaluation Criteria
-- **Database Design**: Structure, relationships, and indexing strategy.
+- **Database Design**: Structure, relationships, and indexing strategy. (You have been given base assumptions about the database structure you are too figure out the missing pieces)
 
-- **API Design & Implementation**: RESTful practices, efficiency of the code, and especially the performance of the "Performance Challenge" endpoint.
+- **API Design & Implementation**: RESTful practices, efficiency of the code.
+
+- **API Documentation**: Ability to document api contract.
 
 - **Query Efficacy**: Ability to optimize the provided SQL query.
 
 - **Code Quality**: Readability, maintainability, and use of TypeScript features.
 
 - **Error Handling**: How robust the application is against unexpected situations or invalid input.
+
+## Submission
+1. The application should be dockerized
+  
+2.  The apis should be documented using postman.
+
+3.  Code should be hosted on a git repository, Github preferably.
+
+4.  The api should be hosted on a live server (https://render.com)
+
+5.  Share with us through email the:
+    - Repository
+
+    - Hosted API URL
+
+    - Postman Collection Public URL
